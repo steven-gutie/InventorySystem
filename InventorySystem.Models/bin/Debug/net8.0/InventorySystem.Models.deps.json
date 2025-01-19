@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InventorySystem.Models/1.0.0": {
+        "dependencies": {
+          "InventorySystem.Utils": "1.0.0"
+        },
+        "runtime": {
+          "InventorySystem.Models.dll": {}
+        }
+      },
+      "InventorySystem.Utils/1.0.0": {
+        "runtime": {
+          "InventorySystem.Utils.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InventorySystem.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventorySystem.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

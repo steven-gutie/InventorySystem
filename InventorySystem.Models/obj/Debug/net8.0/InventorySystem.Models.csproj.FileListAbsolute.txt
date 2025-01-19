@@ -1,0 +1,16 @@
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\bin\Debug\net8.0\InventorySystem.Models.deps.json
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\bin\Debug\net8.0\InventorySystem.Models.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\bin\Debug\net8.0\InventorySystem.Models.pdb
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\bin\Debug\net8.0\InventorySystem.Utils.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\bin\Debug\net8.0\InventorySystem.Utils.pdb
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.csproj.AssemblyReference.cache
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.AssemblyInfoInputs.cache
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.AssemblyInfo.cs
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.sourcelink.json
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\Inventor.166F4956.Up2Date
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\refint\InventorySystem.Models.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\InventorySystem.Models.pdb
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Models\obj\Debug\net8.0\ref\InventorySystem.Models.dll
