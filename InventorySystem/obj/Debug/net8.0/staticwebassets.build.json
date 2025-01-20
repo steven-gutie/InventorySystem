@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "skcIz0f2PuET/Mcl39YucA16pH/TaUxKoSSaMRewIJs=",
+  "Hash": "XsYsuhrztmP86NxNGdklQTRGnSC1SdKIVCkXOZSQ1XY=",
   "Source": "InventorySystem",
   "BasePath": "_content/InventorySystem",
   "Mode": "Default",
@@ -1380,6 +1380,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\store.js",
+      "SourceId": "InventorySystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\",
+      "BasePath": "_content/InventorySystem",
+      "RelativePath": "js/store#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v7f1y971kg",
+      "Integrity": "S9mzgleSgcxAsedPROa0/RUhWdjK7Tb3NUhH+1+iu0M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\store.js"
     },
     {
       "Identity": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -4987,7 +5008,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:32:34 GMT"
+          "Value": "Mon, 20 Jan 2025 04:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5024,7 +5045,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:32:34 GMT"
+          "Value": "Mon, 20 Jan 2025 04:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5069,7 +5090,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:32:34 GMT"
+          "Value": "Mon, 20 Jan 2025 04:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5114,7 +5135,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:32:34 GMT"
+          "Value": "Mon, 20 Jan 2025 04:43:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5207,6 +5228,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/store.js",
+      "AssetFile": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\store.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S9mzgleSgcxAsedPROa0/RUhWdjK7Tb3NUhH+1+iu0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 12:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S9mzgleSgcxAsedPROa0/RUhWdjK7Tb3NUhH+1+iu0M="
+        }
+      ]
+    },
+    {
+      "Route": "js/store.v7f1y971kg.js",
+      "AssetFile": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\store.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S9mzgleSgcxAsedPROa0/RUhWdjK7Tb3NUhH+1+iu0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 12:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7f1y971kg"
+        },
+        {
+          "Name": "label",
+          "Value": "js/store.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S9mzgleSgcxAsedPROa0/RUhWdjK7Tb3NUhH+1+iu0M="
         }
       ]
     },

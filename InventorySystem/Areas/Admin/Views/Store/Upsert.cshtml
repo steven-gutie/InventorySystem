@@ -1,0 +1,75 @@
+﻿@model InventorySystem.Models.Store
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var title = Model.Id == 0 ? "Create store" : "Edit store";
+}
+
+<form method="post">
+    <div style="padding-left:15%; padding-right:15%; padding-bottom:0.4rem">
+        <div class="row border-0">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" id="id" />
+        </div>
+    <div class="col-12 border-bottom p-0">
+        <h2 class="text-primary">@title</h2>
+    </div>
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label asp-for="StoreName" class="control-label"></label>
+                <input type="text" asp-for="StoreName" class="form-control" placeholder="Store name" id="storeName" />
+                <span asp-validation-for="StoreName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class ="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label asp-for="Description" class="control-label"></label>
+                <input type="text" asp-for="Description" class="form-control" placeholder="Description" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label asp-for="Status" class="control-label"></label>
+                <select asp-for="Status" class="form-select">
+                    <option value=true>Active</option>
+                    <option value=false>Inactive</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+        <div>
+            @if(Model.Id != 0){
+                <partial name="_UpdateReturnButtons" model="Model.Id" />
+            }else{
+                <partial name="_CreateReturnButtons" />
+            }
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.getElementById("storeName").addEventListener('change', function(){
+            validateName();
+        });
+
+        function validateName(){
+            var url = '@Url.Content("~/")' + "Admin/Store/ValidateStoreName";
+            var id = '#id';
+            var storeName = '#storeName';
+            
+
+            $.getJSON(url, {id: $(id).val(), storeName: $(storeName).val()}, function(data){
+                    $.each(data, function(key, value){
+                        if(value){
+                            var sName = document.getElementById("storeName");
+                            swal("Error","Store name already exists","error");
+                            sName.value = "";
+                        }
+                    });
+                });
+            }
+    </script>
+}

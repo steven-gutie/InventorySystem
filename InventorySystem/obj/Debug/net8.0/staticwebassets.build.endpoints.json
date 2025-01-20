@@ -2249,7 +2249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:32:34 GMT"
+          "Value": "Mon, 20 Jan 2025 04:43:31 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2294,7 +2294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Jan 2025 02:32:34 GMT"
+          "Value": "Mon, 20 Jan 2025 04:43:31 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2547,6 +2547,88 @@
         {
           "Name": "label",
           "Value": "js/site.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/store.js",
+      "AssetFile": "js/store.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S9mzgleSgcxAsedPROa0/RUhWdjK7Tb3NUhH+1+iu0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 12:05:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S9mzgleSgcxAsedPROa0/RUhWdjK7Tb3NUhH+1+iu0M="
+        }
+      ]
+    },
+    {
+      "Route": "js/store.v7f1y971kg.js",
+      "AssetFile": "js/store.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S9mzgleSgcxAsedPROa0/RUhWdjK7Tb3NUhH+1+iu0M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 12:05:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v7f1y971kg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S9mzgleSgcxAsedPROa0/RUhWdjK7Tb3NUhH+1+iu0M="
+        },
+        {
+          "Name": "label",
+          "Value": "js/store.js"
         }
       ]
     },

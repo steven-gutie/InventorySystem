@@ -8,5 +8,7 @@ namespace InventorySystem.Utils
 {
     public static class StaticDef
     {
+        public const string Succesful = "Succesful";
+        public const string Error = "Error";
     }
 }

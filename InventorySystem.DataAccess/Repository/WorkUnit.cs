@@ -12,10 +12,10 @@ namespace InventorySystem.DataAccess.Repository
     {
         private readonly ApplicationDbContext _db;
         public IStoreRepository Store { get; private set; }
-        public WorkUnit(ApplicationDbContext db, IStoreRepository store)
+        public WorkUnit(ApplicationDbContext db)
         {
             _db = db;
-            store = new StoreRepository(_db);
+            Store = new StoreRepository(_db);
         }
 
         public void Dispose()
