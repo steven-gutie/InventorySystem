@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace InventorySystem.Models
 {
-    public class Store
+    public class Category
     {
         [Key]
         public int Id { get; set; }
 
         [Required(ErrorMessage = "You must enter a value")]
         [MaxLength(50, ErrorMessage = "Name cannot exceed 50 characters")]
-        public string StoreName { get; set; } = string.Empty;
+        public string CatName { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "You must enter a value")]
         [MaxLength(100, ErrorMessage = "Description cannot exceed 100 characters")]
@@ -22,6 +22,5 @@ namespace InventorySystem.Models
 
         [Required(ErrorMessage = "You must select a value")]
         public bool Status { get; set; }
-
     }
 }

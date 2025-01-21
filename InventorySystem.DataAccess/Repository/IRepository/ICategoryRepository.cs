@@ -1,4 +1,5 @@
-﻿using System;
+﻿using InventorySystem.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace InventorySystem.DataAccess.Repository.IRepository
 {
-    public interface IWorkUnit : IDisposable
+    public interface ICategoryRepository : IRepository<Category>
     {
-        IStoreRepository Store { get; }
-        ICategoryRepository Category { get; }
-        Task Save();   
+        void Update(Category category);
     }
 }

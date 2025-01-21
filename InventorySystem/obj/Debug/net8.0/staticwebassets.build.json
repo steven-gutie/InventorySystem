@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XsYsuhrztmP86NxNGdklQTRGnSC1SdKIVCkXOZSQ1XY=",
+  "Hash": "gTb0EwShNvkxj1XYCH7y8ixH37W/8rQV+0JrqYaUKws=",
   "Source": "InventorySystem",
   "BasePath": "_content/InventorySystem",
   "Mode": "Default",
@@ -1359,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\category.js",
+      "SourceId": "InventorySystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\",
+      "BasePath": "_content/InventorySystem",
+      "RelativePath": "js/category#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no2fju31qm",
+      "Integrity": "qamRXyPnlazK0R8xMsRRWIBnGmR/Zs3zw38xIgaB9P4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\category.js"
     },
     {
       "Identity": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\site.js",
@@ -5146,6 +5167,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-JsQuQvS3QQpyFcHz0xM/oY0SURWErUIy50ugASJCEus="
+        }
+      ]
+    },
+    {
+      "Route": "js/category.js",
+      "AssetFile": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\category.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qamRXyPnlazK0R8xMsRRWIBnGmR/Zs3zw38xIgaB9P4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 20:18:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qamRXyPnlazK0R8xMsRRWIBnGmR/Zs3zw38xIgaB9P4="
+        }
+      ]
+    },
+    {
+      "Route": "js/category.no2fju31qm.js",
+      "AssetFile": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\category.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qamRXyPnlazK0R8xMsRRWIBnGmR/Zs3zw38xIgaB9P4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Jan 2025 20:18:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no2fju31qm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/category.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qamRXyPnlazK0R8xMsRRWIBnGmR/Zs3zw38xIgaB9P4="
         }
       ]
     },
