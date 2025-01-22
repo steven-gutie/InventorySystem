@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gTb0EwShNvkxj1XYCH7y8ixH37W/8rQV+0JrqYaUKws=",
+  "Hash": "GlVQpCvutOOJtRnsONvBFjPtnBFkSWr+eMpS5f81o+8=",
   "Source": "InventorySystem",
   "BasePath": "_content/InventorySystem",
   "Mode": "Default",
@@ -1359,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\brand.js",
+      "SourceId": "InventorySystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\",
+      "BasePath": "_content/InventorySystem",
+      "RelativePath": "js/brand#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c4h9r6uqa3",
+      "Integrity": "7PFm09OmbLlwYn3hg87VczQP4A/esjY9WAy3cfxD8JM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\brand.js"
     },
     {
       "Identity": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\category.js",
@@ -5167,6 +5188,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-JsQuQvS3QQpyFcHz0xM/oY0SURWErUIy50ugASJCEus="
+        }
+      ]
+    },
+    {
+      "Route": "js/brand.c4h9r6uqa3.js",
+      "AssetFile": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\brand.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7PFm09OmbLlwYn3hg87VczQP4A/esjY9WAy3cfxD8JM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 00:07:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c4h9r6uqa3"
+        },
+        {
+          "Name": "label",
+          "Value": "js/brand.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7PFm09OmbLlwYn3hg87VczQP4A/esjY9WAy3cfxD8JM="
+        }
+      ]
+    },
+    {
+      "Route": "js/brand.js",
+      "AssetFile": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\brand.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7PFm09OmbLlwYn3hg87VczQP4A/esjY9WAy3cfxD8JM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 00:07:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7PFm09OmbLlwYn3hg87VczQP4A/esjY9WAy3cfxD8JM="
         }
       ]
     },

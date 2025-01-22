@@ -1,0 +1,75 @@
+﻿@model InventorySystem.Models.Brand
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var title = Model.Id == 0 ? "Create category" : "Edit category";
+}
+
+<form method="post">
+    <div style="padding-left:15%; padding-right:15%; padding-bottom:0.4rem">
+        <div class="row border-0">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" id="id" />
+        </div>
+    <div class="col-12 border-bottom p-0">
+        <h2 class="text-primary">@title</h2>
+    </div>
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label asp-for="BrandName" class="control-label"></label>
+                <input type="text" asp-for="BrandName" class="form-control" placeholder="Brand name" id="brandName" />
+                <span asp-validation-for="BrandName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label asp-for="Description" class="control-label"></label>
+                <input type="text" asp-for="Description" class="form-control" placeholder="Category name" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label asp-for="Status" class="control-label"></label>
+                <select asp-for="Status" class="form-select">
+                    <option value=true>Active</option>
+                    <option value=false>Inactive</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+        <div>
+            @if(Model.Id != 0){
+                <partial name="_UpdateReturnButtons" model="Model.Id" />
+            }else{
+                <partial name="_CreateReturnButtons" />
+            }
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        document.getElementById("brandName").addEventListener('change', function(){
+            validateName();
+        });
+
+        function validateName(){
+            var url = '@Url.Content("~/")' + "Admin/Brand/ValidateBrandName";
+            var id = '#id';
+            var brandName = '#brandName';
+
+
+            $.getJSON(url, {id: $(id).val(), brandName: $(brandName).val()}, function(data){
+                    $.each(data, function(key, value){
+                        if(value){
+                            var sName = document.getElementById("brandName");
+                            swal("Error","Brand name already exists","error");
+                            sName.value = "";
+                        }
+                    });
+                });
+            }
+    </script>
+}

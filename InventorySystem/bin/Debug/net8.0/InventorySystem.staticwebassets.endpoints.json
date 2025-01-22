@@ -2469,6 +2469,88 @@
       ]
     },
     {
+      "Route": "js/brand.c4h9r6uqa3.js",
+      "AssetFile": "js/brand.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7PFm09OmbLlwYn3hg87VczQP4A/esjY9WAy3cfxD8JM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 00:07:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c4h9r6uqa3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7PFm09OmbLlwYn3hg87VczQP4A/esjY9WAy3cfxD8JM="
+        },
+        {
+          "Name": "label",
+          "Value": "js/brand.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/brand.js",
+      "AssetFile": "js/brand.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2178"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7PFm09OmbLlwYn3hg87VczQP4A/esjY9WAy3cfxD8JM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 00:07:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7PFm09OmbLlwYn3hg87VczQP4A/esjY9WAy3cfxD8JM="
+        }
+      ]
+    },
+    {
       "Route": "js/category.js",
       "AssetFile": "js/category.js",
       "Selectors": [],

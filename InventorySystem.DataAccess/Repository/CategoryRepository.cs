@@ -23,6 +23,7 @@ namespace InventorySystem.DataAccess.Repository
             if (categoryFromDb != null)
             {
                 categoryFromDb.CatName = category.CatName;
+                categoryFromDb.Description = category.Description;
                 categoryFromDb.Status = category.Status;
                 _db.SaveChanges();
             }
