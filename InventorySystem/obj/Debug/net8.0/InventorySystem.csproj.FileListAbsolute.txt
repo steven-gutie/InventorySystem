@@ -575,3 +575,14 @@ C:\Users\gutie\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\ref
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.pdb
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.genruntimeconfig.cache
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\ref\InventorySystem.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

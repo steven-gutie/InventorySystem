@@ -10,5 +10,6 @@ namespace InventorySystem.Utils
     {
         public const string Succesful = "Succesful";
         public const string Error = "Error";
+        public const string ImagePath = @"\img\product\";    
     }
 }

@@ -81,18 +81,18 @@ namespace InventorySystem.Areas.Admin.Controllers
             return Json(new { success = true, message = "Category successfully deleted" });
         }
 
-        [ActionName("ValidateBrandName")]
-        public async Task<IActionResult> ValidateBrandName(string brandName, int id = 0)
+        [ActionName("ValidateSerialNumber")]
+        public async Task<IActionResult> ValidateSerialNumber(string serialNumber, int id = 0)
         {
             bool value = false;
-            var objFromDb = await _workUnit.Brand.GetAll();
+            var objFromDb = await _workUnit.Product.GetAll();
             if (id == 0)
             {
-                value = objFromDb.Any(u => u.BrandName.ToLower().Trim() == brandName.ToLower().Trim());
+                value = objFromDb.Any(u => u.SerialNumber.ToLower().Trim() == serialNumber.ToLower().Trim());
             }
             else
             {
-                value = objFromDb.Any(u => u.BrandName.ToLower().Trim() == brandName.ToLower().Trim() && u.Id != id);
+                value = objFromDb.Any(u => u.SerialNumber.ToLower().Trim() == serialNumber.ToLower().Trim() && u.Id != id);
             }
             if (value)
             {

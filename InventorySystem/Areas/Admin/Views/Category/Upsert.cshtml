@@ -5,7 +5,7 @@
 }
 
 <form method="post">
-    <div style="padding-left:15%; padding-right:15%; padding-bottom:0.4rem">
+    <div style= padding-right:15%; padding-bottom:0.4rem">
         <div class="row border-0">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="Id" id="id" />
@@ -15,14 +15,21 @@
     </div>
         <div class="row mb-2 mt-2">
             <div class="form-group col-md-6">
-                <label asp-for="CatName" class="control-label"></label>
+                <label>Category name</label>
                 <input type="text" asp-for="CatName" class="form-control" placeholder="Category name" id="catName" />
                 <span asp-validation-for="CatName" class="text-danger"></span>
             </div>
         </div>
         <div class="row mb-2 mt-2">
+        <div class="form-group col-md-6">
+                <label>Description</label>
+            <input type="text" asp-for="Description" class="form-control" placeholder="Category description" />
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+    </div>
+        <div class="row mb-2 mt-2">
             <div class="form-group col-md-6">
-                <label asp-for="Status" class="control-label"></label>
+                <label>Status</label>  
                 <select asp-for="Status" class="form-select">
                     <option value=true>Active</option>
                     <option value=false>Inactive</option>
