@@ -92,7 +92,6 @@ C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\ref
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
-C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
@@ -105,8 +104,6 @@ C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\ref
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
@@ -121,19 +118,15 @@ C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\ref
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
-C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
-C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
-C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
@@ -164,7 +157,6 @@ C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\ref
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\System.Data.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
-C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
@@ -586,3 +578,6 @@ C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\New
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

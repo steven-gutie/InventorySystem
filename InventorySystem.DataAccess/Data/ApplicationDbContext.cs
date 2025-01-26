@@ -16,6 +16,7 @@ namespace InventorySystem.DataAccess.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<Brand> Brands { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<AppUser> AppUser { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
