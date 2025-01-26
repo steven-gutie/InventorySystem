@@ -13,6 +13,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\icono.ico",
+      "PackagePath": "staticwebassets\\img\\icono.ico"
+    },
+    {
+      "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\icono.png",
+      "PackagePath": "staticwebassets\\img\\icono.png"
+    },
+    {
+      "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\product\\17194a09-9e73-49ee-8467-57b972c431d6.JPG",
+      "PackagePath": "staticwebassets\\img\\product\\17194a09-9e73-49ee-8467-57b972c431d6.JPG"
+    },
+    {
+      "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\product\\1eba9d8a-d4ca-4115-9908-b6b8be5abc1d.JPG",
+      "PackagePath": "staticwebassets\\img\\product\\1eba9d8a-d4ca-4115-9908-b6b8be5abc1d.JPG"
+    },
+    {
+      "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\product\\8718b42d-537e-49b4-a775-0e23f78f4408.JPG",
+      "PackagePath": "staticwebassets\\img\\product\\8718b42d-537e-49b4-a775-0e23f78f4408.JPG"
+    },
+    {
+      "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\product\\8d5a511d-81e3-4f98-99a2-f891dbbd9730.JPG",
+      "PackagePath": "staticwebassets\\img\\product\\8d5a511d-81e3-4f98-99a2-f891dbbd9730.JPG"
+    },
+    {
+      "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\product\\9218755a-20d7-47dc-804f-3522a6fe924f.JPG",
+      "PackagePath": "staticwebassets\\img\\product\\9218755a-20d7-47dc-804f-3522a6fe924f.JPG"
+    },
+    {
+      "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\product\\9770e0e5-a3a5-43ca-aa69-82a387a4bd85.JPG",
+      "PackagePath": "staticwebassets\\img\\product\\9770e0e5-a3a5-43ca-aa69-82a387a4bd85.JPG"
+    },
+    {
       "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\brand.js",
       "PackagePath": "staticwebassets\\js\\brand.js"
     },
