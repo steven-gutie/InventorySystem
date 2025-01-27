@@ -1,6 +1,7 @@
 ﻿using InventorySystem.DataAccess.Repository.IRepository;
 using InventorySystem.Models;
 using InventorySystem.Utils;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using System.Drawing.Drawing2D;
@@ -8,6 +9,7 @@ using System.Drawing.Drawing2D;
 namespace InventorySystem.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = StaticDef.Role_Admin)]
     public class BrandController : Controller 
     {
         private readonly IWorkUnit _workUnit;

@@ -208,6 +208,10 @@ namespace InventorySystem.Areas.Identity.Pages.Account
                         }
                     }
                 }
+                Input = new InputModel
+                {
+                    RoleList = _roleManager.Roles.Where(x => x.Name != StaticDef.Role_User).Select(x => x.Name).Select(x => new SelectListItem { Text = x, Value = x })
+                };
                 foreach (var error in result.Errors)
                 {
                     ModelState.AddModelError(string.Empty, error.Description);
