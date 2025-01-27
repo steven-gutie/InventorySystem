@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-InventorySystem-e7d5a997-a319-464e-9ec6-91c7bb6ce4ff</UserSecretsId>
   </PropertyGroup>
