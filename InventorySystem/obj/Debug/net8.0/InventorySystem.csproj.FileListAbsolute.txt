@@ -606,3 +606,5 @@ C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\run
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\SendGrid.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\StarkbankEcdsa.dll
