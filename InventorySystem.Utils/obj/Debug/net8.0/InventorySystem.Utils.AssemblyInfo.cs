@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("InventorySystem.Utils")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ea6e946b307cfa835a985ca4f8f94e60f6ffd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08cab770bd5b9683d6cad7f0dd234b3f3106a016")]
 [assembly: System.Reflection.AssemblyProductAttribute("InventorySystem.Utils")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InventorySystem.Utils")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

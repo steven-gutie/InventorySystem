@@ -37,7 +37,7 @@ namespace InventorySystem.Areas.Inventory.Controllers
             Parameters parameters = new Parameters
             {
                 PageNumber = pageNumber,
-                PageSize = 4
+                PageSize = 8
             };
             var productList= _workUnit.Product.GetAllPaginated(parameters);
             if (!String.IsNullOrEmpty(search))

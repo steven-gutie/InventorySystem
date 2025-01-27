@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\img\\product\\9770e0e5-a3a5-43ca-aa69-82a387a4bd85.JPG"
     },
     {
+      "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\product\\ddd985ba-e5bc-4341-99ea-782806a4b572.JPG",
+      "PackagePath": "staticwebassets\\img\\product\\ddd985ba-e5bc-4341-99ea-782806a4b572.JPG"
+    },
+    {
       "Id": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\brand.js",
       "PackagePath": "staticwebassets\\js\\brand.js"
     },

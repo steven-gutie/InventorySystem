@@ -10,3 +10,4 @@ C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Utils\obj\Debug\net8
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Utils\obj\Debug\net8.0\refint\InventorySystem.Utils.dll
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Utils\obj\Debug\net8.0\InventorySystem.Utils.pdb
 C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Utils\obj\Debug\net8.0\ref\InventorySystem.Utils.dll
+C:\Users\gutie\source\repos\InventorySystem\InventorySystem.Utils\obj\Debug\net8.0\InventorySystem.Utils.csproj.AssemblyReference.cache

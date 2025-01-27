@@ -10,6 +10,11 @@ namespace InventorySystem.Utils
     {
         public const string Succesful = "Succesful";
         public const string Error = "Error";
-        public const string ImagePath = @"\img\product\";    
+        public const string ImagePath = @"\img\product\";
+
+        public const string Role_Admin = "Admin";
+        public const string Role_User = "User";
+        public const string Role_InventoryManager = "InventoryManager";
+
     }
 }

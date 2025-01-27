@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QnPFFx558HpBBR7jbHBlVD74CTJzoHn5OwtbmdgaMAA=",
+  "Hash": "Lht1zzTmqnPAYjrBxDcPr4f0QkAurJTqv77vHWf0PkQ=",
   "Source": "InventorySystem",
   "BasePath": "_content/InventorySystem",
   "Mode": "Default",
@@ -1527,6 +1527,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\product\\9770e0e5-a3a5-43ca-aa69-82a387a4bd85.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\product\\ddd985ba-e5bc-4341-99ea-782806a4b572.JPG",
+      "SourceId": "InventorySystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\",
+      "BasePath": "_content/InventorySystem",
+      "RelativePath": "img/product/ddd985ba-e5bc-4341-99ea-782806a4b572#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oorvhpfnpq",
+      "Integrity": "6ALvESfaV9h7KStf0CLXmcL7vRNxRchZUmbzIS04SHU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\product\\ddd985ba-e5bc-4341-99ea-782806a4b572.JPG"
     },
     {
       "Identity": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\js\\brand.js",
@@ -5869,6 +5890,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Cln1SmTeN+GlwtPjbPqwdTRhBoUCwR1BkLLhYGKFHEA="
+        }
+      ]
+    },
+    {
+      "Route": "img/product/ddd985ba-e5bc-4341-99ea-782806a4b572.JPG",
+      "AssetFile": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\product\\ddd985ba-e5bc-4341-99ea-782806a4b572.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6ALvESfaV9h7KStf0CLXmcL7vRNxRchZUmbzIS04SHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 23:42:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6ALvESfaV9h7KStf0CLXmcL7vRNxRchZUmbzIS04SHU="
+        }
+      ]
+    },
+    {
+      "Route": "img/product/ddd985ba-e5bc-4341-99ea-782806a4b572.oorvhpfnpq.JPG",
+      "AssetFile": "C:\\Users\\gutie\\source\\repos\\InventorySystem\\InventorySystem\\wwwroot\\img\\product\\ddd985ba-e5bc-4341-99ea-782806a4b572.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6ALvESfaV9h7KStf0CLXmcL7vRNxRchZUmbzIS04SHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 23:42:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oorvhpfnpq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/product/ddd985ba-e5bc-4341-99ea-782806a4b572.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6ALvESfaV9h7KStf0CLXmcL7vRNxRchZUmbzIS04SHU="
         }
       ]
     },

@@ -8,6 +8,7 @@ wwwroot\img\product\8718b42d-537e-49b4-a775-0e23f78f4408.JPG
 wwwroot\img\product\8d5a511d-81e3-4f98-99a2-f891dbbd9730.JPG
 wwwroot\img\product\9218755a-20d7-47dc-804f-3522a6fe924f.JPG
 wwwroot\img\product\9770e0e5-a3a5-43ca-aa69-82a387a4bd85.JPG
+wwwroot\img\product\ddd985ba-e5bc-4341-99ea-782806a4b572.JPG
 wwwroot\js\brand.js
 wwwroot\js\category.js
 wwwroot\js\product.js
